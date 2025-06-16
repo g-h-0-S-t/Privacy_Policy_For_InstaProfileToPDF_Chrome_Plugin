@@ -1,0 +1,2 @@
+# Privacy_Policy_For_InstaProfileToPDF_Chrome_Plugin
+Privacy Policy For InstaProfileToPDF Chrome Plugin
