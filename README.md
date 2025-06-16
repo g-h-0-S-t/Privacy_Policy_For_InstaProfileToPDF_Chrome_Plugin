@@ -72,4 +72,4 @@ Contact Information
 
 For questions about this policy:
 
-*   Email: ribhubiswas@gmail.com
+*   Twitter / 𝕏 : [Cyberbatman](https://x.com/cyberbatman_)
