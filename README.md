@@ -65,7 +65,8 @@ This Extension does not collect any data from users of any age group.
 Changes to This Policy
 ----------------------
 
-Policy updates will be posted on the GitHub repository. The "Last updated" date at the top indicates revisions.
+Policy updates will be posted on the GitHub repository : https://github.com/g-h-0-S-t/Privacy_Policy_For_InstaProfileToPDF_Chrome_Plugin  
+The "Last updated" date at the top indicates revisions.
 
 Contact Information
 -------------------
