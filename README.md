@@ -72,5 +72,4 @@ Contact Information
 
 For questions about this policy:
 
-*   GitHub: [Project Repository](https://github.com/g-h-0-S-t/InstaProfileToPDF_Chrome_Plugin)
 *   Email: ribhubiswas@gmail.com
